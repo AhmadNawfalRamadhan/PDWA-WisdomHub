@@ -4,12 +4,12 @@
 session_start();
 
 require_once __DIR__ . '/database.php';
-require_once __DIR__ . '/../app/models/BaseModel.php';
-require_once __DIR__ . '/../app/models/UserModel.php';
-require_once __DIR__ . '/../app/models/BookModel.php';
-require_once __DIR__ . '/../app/models/BorrowModel.php';
-require_once __DIR__ . '/../app/models/CategoryModel.php';
-require_once __DIR__ . '/../app/models/SettingModel.php';
+require_once __DIR__ . '/../app/model/BaseModel.php';
+require_once __DIR__ . '/../app/model/UserModel.php';
+require_once __DIR__ . '/../app/model/BookModel.php';
+require_once __DIR__ . '/../app/model/BorrowModel.php';
+require_once __DIR__ . '/../app/model/CategoryModel.php';
+require_once __DIR__ . '/../app/model/SettingModel.php';
 require_once __DIR__ . '/../app/controllers/BaseController.php';
 require_once __DIR__ . '/../app/controllers/AuthController.php';
 require_once __DIR__ . '/../app/controllers/BookController.php';
