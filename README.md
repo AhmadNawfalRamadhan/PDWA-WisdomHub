@@ -1,6 +1,8 @@
-# <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgdmlld0JveD0iMCAwIDQ4IDQ4IiBmaWxsPSJub25lIj48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPjxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNkOTc3MDYiIC8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjY2E4YTA0IiAvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjxyZWN0IHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgcng9IjEyIiBmaWxsPSJ1cmwoI2dyYWQpIiAvPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEyLCAxMikiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGZpbGw9Im5vbmUiPjxyZWN0IHdpZHRoPSI4IiBoZWlnaHQ9IjE4IiB4PSIzIiB5PSIzIiByeD0iMSIgLz48cGF0aCBkPSJNNyAzaDEwIiAvPjxwYXRoIGQ9Ik0xMSAzdjE4IiAvPjxwYXRoIGQ9Ik0xNSAzdjE4IiAvPjxwYXRoIGQ9Ik0xNyAzaDJjMS4xIDAgMiAuOSAyIDJ2MTRjMCAxLjEtLjkgMi0yIDJoLTIiIC8+PC9nPjwvc3ZnPg==" width="32" height="32" style="vertical-align:middle; border-radius:8px;"> Wisdom Hub
-
-> **Sistem Manajemen Perpustakaan Digital Modern**
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/84e506f1-e7b9-4726-b5b5-b6da7dc53bfe" width="118" height="100" alt="Wisdom Hub Logo">
+  <h1>Wisdom Hub</h1>
+  <p><strong>Sistem Manajemen Perpustakaan Digital Modern</strong></p>
+</div>
 
 Aplikasi perpustakaan digital berbasis web menggunakan arsitektur **MVC** (Model-View-Controller), dibangun dengan PHP murni tanpa framework. Menampilkan splash screen animasi, QR Code, dark mode elegan, dan fitur lengkap untuk admin maupun siswa/mahasiswa.
 
