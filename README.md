@@ -243,14 +243,14 @@ BORROW_DAYS  = 14                            // Durasi pinjam 14 hari
 
 Dibuat sebagai proyek **Pengembangan Web** — Sistem Manajemen Perpustakaan Digital dengan arsitektur MVC PHP.
 Kontributor:
-Ahmad Nawfal Ramadhan - 20240140028
-Khoirul Arif Pratama - 20240140011
-Rafi'i Arif Nugroho - 20240140007
-March Dillo Kemal Hakim - 20240140041
-Rafi Ammar Dinata - 20240140027
-Muhammad Raihan Fitzal Rahman - 20240140009
-Abi Nayana Faiq - 20240140036
-Pasya Achmadinedja Maulana - 20240140035
+- Ahmad Nawfal Ramadhan - 20240140028
+- Khoirul Arif Pratama - 20240140011
+- Rafi'i Arif Nugroho - 20240140007
+- March Dillo Kemal Hakim - 20240140041
+- Rafi Ammar Dinata - 20240140027
+- Muhammad Raihan Fitzal Rahman - 20240140009
+- Abi Nayana Faiq - 20240140036
+- Pasya Achmadinedja Maulana - 20240140035
 
 ---
 
