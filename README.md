@@ -230,12 +230,15 @@ BORROW_DAYS  = 14                            // Durasi pinjam 14 hari
 
 ## 🖼️ Tampilan Aplikasi
 
-| Halaman | Deskripsi |
-|---------|-----------|
-| **Katalog Publik** | Halaman utama dengan splash screen, video background & marquee buku |
-| **Login** | Tampilan dua kolom dengan branding Wisdom Hub |
-| **Dashboard Admin** | Statistik lengkap + chart tren peminjaman |
-| **Dashboard Siswa** | Ringkasan peminjaman aktif & riwayat personal |
+
+- **Katalog Publik**  Halaman utama dengan splash screen, video background & marquee buku
+  <img width="1918" height="911" alt="Screenshot 2026-06-25 022441" src="https://github.com/user-attachments/assets/77037bcc-1c8b-4a1f-b145-d219deabcaea" />
+- **Login**  Tampilan dua kolom dengan branding Wisdom Hub
+  <img width="1919" height="911" alt="Screenshot 2026-06-25 022504" src="https://github.com/user-attachments/assets/0c4ce4ed-9306-42f3-979a-2978e77a6c67" />
+- **Dashboard Admin**  Statistik lengkap + chart tren peminjaman
+  <img width="1919" height="912" alt="Screenshot 2026-06-25 023331" src="https://github.com/user-attachments/assets/c3911435-f1a8-40b3-8572-659e431e7452" />
+- **Dashboard Siswa**  Ringkasan peminjaman aktif & riwayat personal
+  <img width="1919" height="911" alt="Screenshot 2026-06-25 023547" src="https://github.com/user-attachments/assets/62da0a87-9ca8-4f85-8b1c-1cd8c880bd6d" />
 
 ---
 
